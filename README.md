@@ -10,7 +10,7 @@ Uma biblioteca online, onde uma ajuda alunos e professores a terem o livro que d
 Data | Atividade
 ------------ | -------------
 08/09 | Entrega do wireframe (Telas)
-20/09 | Descrever atividade
+14/09 | Reunião do Grupo
 20/09 | Descrever atividade
 20/09 | Descrever atividade
 20/09 | Descrever atividade

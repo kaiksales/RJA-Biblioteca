@@ -1,5 +1,5 @@
 # RJA-Biblioteca
-Uma biblioteca online, onde uma ajuda alunos e professores a terem o livro que desejam trabalhar em mãos.
+Uma biblioteca online, onde ajuda alunos e professores a terem o livro que desejam trabalhar em mãos.
 
 ## Nome da Equipe
 1. Anne Carolina (Designer e Programador)
